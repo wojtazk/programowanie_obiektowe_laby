@@ -1,0 +1,14 @@
+# ninja log v5
+409	495	6999092985129874	programowanie_obiektowe.exe	2cff4dbeba077076
+2	409	6999092984289926	CMakeFiles/programowanie_obiektowe.dir/main.cpp.obj	6c160c9d4a25065
+8	612	6999092401752131	CMakeFiles/programowanie_obiektowe.dir/Sieve.cpp.obj	8e2502d079781fa4
+2	162	6999093567672630	build.ninja	9fffd731a80aec58
+0	481	6999093474551484	CMakeFiles/lab_2.dir/main.cpp.obj	76e1eda82fe19ba5
+5	556	6999093475291507	CMakeFiles/lab_2.dir/Sieve.cpp.obj	d3b5c3e991fd3d0f
+556	641	6999093476121470	lab_2.exe	a390f71124ac3c60
+3	384	6999093712012676	CMakeFiles/lab_2.dir/main.cpp.obj	76e1eda82fe19ba5
+385	559	6999093713732644	lab_2.exe	a390f71124ac3c60
+2	393	6999100629747470	CMakeFiles/lab_2.dir/Sieve.cpp.obj	d3b5c3e991fd3d0f
+393	482	6999100630607456	lab_2.exe	a390f71124ac3c60
+2	817	6999101300081936	CMakeFiles/lab_2.dir/Sieve.cpp.obj	d3b5c3e991fd3d0f
+817	904	6999101300911920	lab_2.exe	a390f71124ac3c60
