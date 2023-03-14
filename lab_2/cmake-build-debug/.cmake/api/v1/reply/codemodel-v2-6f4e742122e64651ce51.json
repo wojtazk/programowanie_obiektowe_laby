@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Dane/studia/semestr_2/programowanie_obiektowe/lab_2/cmake-build-debug",
-		"source" : "D:/Dane/studia/semestr_2/programowanie_obiektowe/lab_2"
+		"build" : "C:/Dane/studia/programowanie_obiektowe_laby/lab_2/cmake-build-debug",
+		"source" : "C:/Dane/studia/programowanie_obiektowe_laby/lab_2"
 	},
 	"version" : 
 	{

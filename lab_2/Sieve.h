@@ -5,17 +5,18 @@
 #include <vector>
 
 class Sieve {
-    std::vector<int> primeNumbers;
-    int MAX_NUM;
+    std::vector<bool> primeNumbers;
+    unsigned long long int MAX_NUM;
     bool isFiltered = false;
 
 public:
-    explicit Sieve(int);
+    Sieve();
+    explicit Sieve(unsigned long long int);
     ~Sieve();
-    std::vector<int> filter();
+    std::vector<bool> filter();
     void print();
 
-    static bool isPrime(int);
+    static bool isPrime(unsigned long long int);
 };
 
 
